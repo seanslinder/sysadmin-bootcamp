@@ -1,0 +1,11 @@
+﻿[2026-08-25 14:57:53] [INFO] STARTING BACKUP
+[2026-08-25 14:57:53] [INFO] Date: 25.08.2026
+[2026-08-25 14:57:53] [INFO] Time: 14:57:53
+[2026-08-25 14:57:53] [INFO] Computer: DESKTOP-RDTTSRA
+[2026-08-25 14:57:53] [INFO] User: Ботир
+[2026-08-25 14:57:53] [INFO] Found files to copy: 1
+[2026-08-25 14:57:53] [INFO] Created backup folder at: C:\Users\Ботир\Backup-Project\backups\backup_2026-08-25_14-57-53
+[2026-08-25 14:57:54] [INFO] Source contents copied to: C:\Users\Ботир\Backup-Project\backups\backup_2026-08-25_14-57-53
+[2026-08-25 14:57:54] [INFO] Source files compressed at: C:\Users\Ботир\Backup-Project\backups\backup_2026-08-25_14-57-53.zip. Size: 0 MB
+[2026-08-25 14:57:54] [INFO] Temporary folder cleaned up: C:\Users\Ботир\Backup-Project\backups\backup_2026-08-25_14-57-53
+[2026-08-25 14:57:54] [INFO] BACKUP SUCCESSFUL
